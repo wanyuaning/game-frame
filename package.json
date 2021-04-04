@@ -1,0 +1,20 @@
+{
+  "name": "game-frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "tsc --outFile ./js/Element.js src/Element.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanyuaning/game-frame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanyuaning/game-frame/issues"
+  },
+  "homepage": "https://github.com/wanyuaning/game-frame#readme"
+}
