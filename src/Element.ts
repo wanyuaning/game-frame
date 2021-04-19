@@ -11,6 +11,7 @@ export default class GameElement{
     this.parent = null
     this.children = []
   }
+  
   addChild(child: GameElement){
     if (!(child instanceof GameElement)) {
       console.error(' Unknown parameter: child')
